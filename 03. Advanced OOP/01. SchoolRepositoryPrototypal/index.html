@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="script/prototype-create-extend.js"></script>
+    <script src="script/school-repository.js"></script>
+</head>
+<body>
+    <script>
+        var student1 = Object.create(Student);
+        student1.init("Pesho", "Peshov", 26, 12);
+        console.log(student1.introduce());
+
+        var student2 = Object.create(Student);
+        student2.init("Pesho2", "Peshov2", 25, 13);
+        console.log(student2.introduce());
+
+        var teacher1 = Object.create(Teacher);
+        teacher1.init("Prof. Pesho", "Jorov", 50, "IT");
+        console.log(teacher1.introduce());
+    </script>
+</body>
+</html>

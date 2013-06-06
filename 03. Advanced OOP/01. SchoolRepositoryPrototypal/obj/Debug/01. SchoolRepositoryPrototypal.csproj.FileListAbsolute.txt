@@ -1,0 +1,5 @@
+E:\TELERIK\HW\JSApp\03. Advanced OOP\01. SchoolRepositoryPrototypal\bin\_01.SchoolRepositoryPrototypal.dll
+E:\TELERIK\HW\JSApp\03. Advanced OOP\01. SchoolRepositoryPrototypal\bin\_01.SchoolRepositoryPrototypal.pdb
+E:\TELERIK\HW\JSApp\03. Advanced OOP\01. SchoolRepositoryPrototypal\obj\Debug\01. SchoolRepositoryPrototypal.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\JSApp\03. Advanced OOP\01. SchoolRepositoryPrototypal\obj\Debug\_01.SchoolRepositoryPrototypal.dll
+E:\TELERIK\HW\JSApp\03. Advanced OOP\01. SchoolRepositoryPrototypal\obj\Debug\_01.SchoolRepositoryPrototypal.pdb

@@ -1,0 +1,4 @@
+E:\TELERIK\HW\JSApp\03. Advanced OOP\02. SchoolRepositoryClassical\bin\_02.SchoolRepositoryClassical.dll
+E:\TELERIK\HW\JSApp\03. Advanced OOP\02. SchoolRepositoryClassical\bin\_02.SchoolRepositoryClassical.pdb
+E:\TELERIK\HW\JSApp\03. Advanced OOP\02. SchoolRepositoryClassical\obj\Debug\_02.SchoolRepositoryClassical.dll
+E:\TELERIK\HW\JSApp\03. Advanced OOP\02. SchoolRepositoryClassical\obj\Debug\_02.SchoolRepositoryClassical.pdb

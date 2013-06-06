@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SchoolRepositoryPrototypal", "01. SchoolRepositoryPrototypal\01. SchoolRepositoryPrototypal.csproj", "{9C881376-A38F-4247-9BAB-5D9871A7A0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SchoolRepositoryClassical", "02. SchoolRepositoryClassical\02. SchoolRepositoryClassical.csproj", "{89F33AB9-5D4E-42AD-8DF0-A93567AE574E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C881376-A38F-4247-9BAB-5D9871A7A0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C881376-A38F-4247-9BAB-5D9871A7A0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C881376-A38F-4247-9BAB-5D9871A7A0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C881376-A38F-4247-9BAB-5D9871A7A0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F33AB9-5D4E-42AD-8DF0-A93567AE574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F33AB9-5D4E-42AD-8DF0-A93567AE574E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F33AB9-5D4E-42AD-8DF0-A93567AE574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F33AB9-5D4E-42AD-8DF0-A93567AE574E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
